@@ -1,16 +1,15 @@
 # playlist_flutter
 
-A new Flutter project.
+A new Flutter Playlist_Flutter UI/UX Screen application. Designed by Rita Carvalho, Code with Flutter by Kishor Kc.
 
-## Getting Started
+## Kishor Kc
 
-This project is a starting point for a Flutter application.
+Design credit by Rita Carvalho [see the profile](https://dribbble.com/RitaCarvalho)
 
-A few resources to get you started if this is your first Flutter project:
+Playlist_Flutter UI/UX Final Screen
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Screenshot_2021-04-19-13-44-08-906_com example playlist_flutter](https://user-images.githubusercontent.com/73419211/115202736-6ae9ed00-a116-11eb-8ac9-ee2a7ba52f05.jpg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2021-04-19-13-44-16-090_com example playlist_flutter](https://user-images.githubusercontent.com/73419211/115202814-835a0780-a116-11eb-987c-168db5353159.jpg)
+
+
